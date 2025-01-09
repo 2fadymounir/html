@@ -1,0 +1,75 @@
+
+<head>
+<title>html basics</title>
+<link rel="icon" href="HTML5_logo_and_wordmark.svg.png">
+</head>
+<body>
+    <h1>Welcome toHYMLBasics</h1>
+    <h3>introduction</h3>
+    <p>HTML stands <b>HyperText Markup Language </b>and usedto create web pages. this example demonstates barious basic HTML element</p>
+    <hr>
+    <h2>Text Formatting</h2>
+    <p>you can use HTML yo style text in different way;</p>
+    <ul>
+        <li><b>bold </b>text</li>
+        <li><i>ltalic </i>text</li>
+        <li><mark>highighted </mark>text</li>
+        <li><del>Deleled </del>text</li>
+        <li>Text with <sub>subscript</sub> and <sup>supetscript</sup></li>    
+    </ul>
+    <hr>
+    <h2>Hyperlink</h2>
+    <p>Visit <a href="www.googel.com">Example Website</a> for more information</p>
+    <hr>
+    <h3>Lists</h3>
+    <p>Here is an example of a list:</p>
+    <h4>ordered List</h4>
+    <ol>
+        <li>first item</li>
+        <li>second item</li>
+        <li>third item</li>
+        <ol>
+        <li>sub-item one</li>
+        <li>sub-item two</li>
+        </ol>
+    </ol>
+    <h4>Unordered List</h4>
+    <ul>
+        <li>item one</li>
+        <li>item tow</li>
+        <li>item three</li>
+        <ul>
+            <li>sub-item A</li>
+            <li>sub-item B</li>
+        </ul>
+    </ul>
+    <hr>
+    <h3>Table</h3>
+    <p>Here is an example of a simple teble</p>
+    <table border="1px" cellspacing="0" cellpadding="10">
+        <tr>
+            <th>Name</th>
+            <td>Alic</td>
+            <td>Mark</td>
+            <td>Philips</td>
+        </tr>
+        <tr>
+            <th>Age</td>
+            <td>23</td>
+            <td>30</td>
+            <td>29</td>
+        </tr>
+        <tr>
+            <th>City</th>
+            <td>New York</td>
+            <td>Los Angeles</td>
+            <td>Chicago</td>
+        </tr>
+            
+          
+
+            
+        
+    </table>
+
+</body>
